@@ -6,7 +6,7 @@ The Help directory consist of the supporting materials and files, and also scrip
 
 My writeup consist of all 25 tasks.
 
-Do note that my writeup have the actual hashes/flags/passwords blurred due to the Terms and Conditions of TryHackMe.com.
+Do note that the actual hashes/flags/passwords are blurred due to the Terms and Conditions of TryHackMe.com.
 
 Link to the challenge: https://tryhackme.com/room/25daysofchristmas
 
