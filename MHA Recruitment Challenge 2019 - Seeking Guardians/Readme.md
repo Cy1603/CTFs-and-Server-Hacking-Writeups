@@ -21,4 +21,4 @@ Information on the challenges:
 9. Malware Analysis PCAP
 10. Memory Forensics
 
-I thoroughly enjoy them, hope you do too!
+I thoroughly enjoyed them, hope you do too!
