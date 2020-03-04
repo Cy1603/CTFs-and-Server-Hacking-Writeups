@@ -1,0 +1,18 @@
+Questions
+=========
+You are tasked to analyse one of the Packet Capture (PCAP) that contains Mirage malware beaconing. In the PCAP, there are several beaconing packets captured. You are to examine the PCAP to see if any useful information relating to the attacker or victim can be extracted.
+
+PCAP file: mirage.pcap 
+MD5: 9C4F0739A90945BFB099BE20CDB2D99A
+
+For more information on Mirage malware, there is a research paper written by Dell SecureWorks Counter Threat Unit Threat Intelligence on Mirage malware and can be accessed via https://www.secureworks.com/research/the-mirage-campaign
+
+You are required to submit the following:
+1.	From the decoded payload, identify the victim’s computer name and username. Please explain how you obtain the information.
+2.	From the decoded payload, identify the number of unique MAC addresses and list down all the MAC addresses found. Please explain how you obtain the information.
+3.	(Optional) Please indicate any other interesting information (if any) observed during your analysis.
+4.	From your answer to question 2, does it suggest that there are multiple infected hosts (e.g. MAC addresses, username)? Explain why/ why not.
+5.	From your analysis of the PCAP, what do you think had happened?
+
+There is no restriction to any methods/tools used to analyse the PCAP. If you have written any scripts/application to process/extract the data, please also submit your scripts/application to us.  
+
