@@ -15,8 +15,8 @@ Information on the challenges:
 3. Reverse Engineering APK
 4. PHP and PCAP
 5. Reverse Engineering ELF
-6. Memory Forensics
-7. Reverse Engineering EXE
+6. Memory Forensics (Incomplete)
+7. Reverse Engineering EXE (Incomplete)
 8. Web CTF
 9. Malware Analysis PCAP
 10. Memory Forensics
