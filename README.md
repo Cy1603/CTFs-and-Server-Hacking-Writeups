@@ -3,8 +3,18 @@ tryhackme.com
 2. Vulnversity
 
 HackTheBox
+Boxes:
 1. OpenAdmin
 2. Obscurity
 3. Traverxec
 4. Blunder
 5. SneakyMailer
+6. Knife
+
+Web:
+1. Toxic
+2. Emdee five for life
+3. LoveTok
+4. petpet rcbee
+5. Phonebook
+6. Templated
