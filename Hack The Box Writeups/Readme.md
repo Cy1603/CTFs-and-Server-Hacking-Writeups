@@ -6,5 +6,5 @@ Machines completed:
 1. OpenAdmin
 2. Obscurity
 3. Traverxec
-4. Blunder (Active) - $Gm...C0
-5. SneakyMailer (Active) - $jJ...f.
+4. Blunder
+5. SneakyMailer
