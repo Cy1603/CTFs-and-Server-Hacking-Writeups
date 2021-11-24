@@ -1,6 +1,4 @@
-Writeups for active machines are password protected with root hash.
-
-Writeups for retired machines will have their password removed.
+Writeups for retired machines.
 
 Machines completed:
 1. OpenAdmin
@@ -8,3 +6,4 @@ Machines completed:
 3. Traverxec
 4. Blunder
 5. SneakyMailer
+6. Knife
