@@ -1,5 +1,9 @@
-2021 CTF Challenge by CSIT. I've only manage to complete 1,2,3,4,7.
+TISC 2021 CTF Challenge by CSIT. I have only manage to complete 1,2,3,4,7.
 
-My writeup is written in such a way that it is more of a walkthrough perspective. I hope it can help the readers with their thought process.
+My writeup is written in a walkthrough perspective which hopefully can help readers with their thought process.
 
-Generally a fun and well-structured CTF. Looking forward to read other challengers' write-ups!
+TISC 2021 Summary:
+
+https://www.csit.gov.sg/tisc/tisc-2021-summary
+
+![](Images/TISC_2021_scoreboard.png)
