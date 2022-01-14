@@ -1,6 +1,6 @@
 # KringleCon 4
 
-SANS's yearly Christmas Holiday Hack Challenge has never disappoint. There are a total of 12 main objectives and around 13 side tasks to do. Completing this challenge will give you 30 achievements in total.
+SANS's yearly Christmas Holiday Hack Challenge has never disappoint. There are a total of 13 main objectives and around 13 side tasks to do. Completing this challenge will give you 30 achievements in total.
 
 Objectives:
 1) KringleCon Orientation
