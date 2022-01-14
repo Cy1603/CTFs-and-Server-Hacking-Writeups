@@ -1,6 +1,6 @@
 # KringleCon 4
 
-SANS's yearly Christmas Holiday Hack Challenge has never disappoint. There are a total of 12 main objectives and around 12 side tasks to do. Completing this challenge will give you 30 achievements in total.
+SANS's yearly Christmas Holiday Hack Challenge has never disappoint. There are a total of 12 main objectives and around 13 side tasks to do. Completing this challenge will give you 30 achievements in total.
 
 Objectives:
 1) KringleCon Orientation
@@ -18,16 +18,16 @@ Objectives:
 13) FPGA Programming
 
 Tasks:
-a) IPv6 Sandbox
-b) Yara Analysis
-c) Document Analysis
-d) HoHo ... No
-e) Grepping for Gold
-f) Frostavator
-g) Holiday Hero
-h) IMDS Exploration
-i) Strace Ltrace Retrace
-j) Logic Munchers
-k) Elf Code Python
-l) Bonus! Red Log4Jack
-m) Bonus! Blue Log4Jack
+1) IPv6 Sandbox
+2) Yara Analysis
+3) Document Analysis
+4) HoHo ... No
+5) Grepping for Gold
+6) Frostavator
+7) Holiday Hero
+8) IMDS Exploration
+9) Strace Ltrace Retrace
+10) Logic Munchers
+11) Elf Code Python
+12) Bonus! Red Log4Jack
+13) Bonus! Blue Log4Jack
