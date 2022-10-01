@@ -164,4 +164,4 @@ for pl in ${payload[@]}; do
 done
 ```
 
-![](tisc2022-images\tisc2022-flag.png)
+![](tisc2022-images/tisc2022-flag.png)
