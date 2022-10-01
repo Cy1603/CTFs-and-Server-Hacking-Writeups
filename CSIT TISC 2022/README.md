@@ -10,3 +10,7 @@ I also participated in the challenges in the alternative path (4B route) and man
 4B is interesting since I've never touched on aws and I stepped out of my comfort zone to try new things.
 There is so much to learn in this field and always fun to learn new concepts!
 I hope you enjoy reading my writeup. Looking forward to TISC 2023!
+
+https://www.csit.gov.sg/events/tisc/tisc-2022-summary
+
+![](creators.png)
