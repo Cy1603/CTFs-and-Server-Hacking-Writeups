@@ -6,6 +6,8 @@ The purpose of this challenge is to showcase how kernel module functions using a
 The writeup and challenge file will be provided for those who are interested to try it out after the CTF.
 In the future, I hope there are opportunities to leverage further on this concept to design a higher level challenge. :)
 
+![](path.png)
+
 I also participated in the challenges in the alternative path (4B route) and managed to clear up to 4B.
 4B is interesting since I've never touched on aws and I stepped out of my comfort zone to try new things.
 There is so much to learn in this field and always fun to learn new concepts!
